@@ -13,13 +13,13 @@ Your program on PC will have a menu as follows:
 ## STUDENT NAME:               		   ##
 ## PLEASE SELECT FROM THE FOLLOWING  ##
 ## MENU :                            ##
-(1) TURN ON LED ON ARDUINO 
-(2) TURN OFF LED ON ARDUINO
-(3) FLASH ARDUINO LED 3 TIMES
-(4) SEND A NUMBER TO ARDUINO TO COMPUTE SQUARE BY ARDUINO
-(5) Button press counter (bonus item)
-(0) EXIT
-PLEASE SELECT:
+##(1) TURN ON LED ON ARDUINO ##
+##(2) TURN OFF LED ON ARDUINO ##
+##(3) FLASH ARDUINO LED 3 TIMES ##
+##(4) SEND A NUMBER TO ARDUINO TO COMPUTE SQUARE BY ARDUINO ##
+##(5) Button press counter (bonus item) ##
+##(0) EXIT ##
+## PLEASE SELECT: ##
 
 Your program on arduino should not have any menu for user.
 
