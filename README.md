@@ -13,9 +13,9 @@ b)	Write arduino code on arduino to talk to pc
 (3) FLASH ARDUINO LED 3 TIMES \
 (4) SEND A NUMBER TO ARDUINO TO COMPUTE SQUARE BY ARDUINO \
 (5) Button press counter (bonus item) \
-(0) EXIT \
+(0) EXIT
 
-Your program on arduino should not have any menu for user. \
+Your program on arduino should not have any menu for user.
 
 Hint:  You may use the information at 
 
