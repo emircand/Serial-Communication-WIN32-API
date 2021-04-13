@@ -1,13 +1,13 @@
 # Serial-Communication-WIN32-API
 CSE 101 ASSIGNMENT #4
 
-ASSIGNMENT:
+# ASSIGNMENT:
 
 In this assignment you are required to write a C program on your computer that talks to Arduino in C language. To do that you need to:
 a)	Write a code in C language on your pc to talk to arduino
 b)	Write arduino code on arduino to talk to pc
 
-Your program on PC will have a menu as follows:
+# Your program on PC will have a menu as follows:
 (1) TURN ON LED ON ARDUINO
 (2) TURN OFF LED ON ARDUINO ##
 (3) FLASH ARDUINO LED 3 TIMES ##
